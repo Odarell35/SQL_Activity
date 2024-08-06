@@ -21,4 +21,7 @@ git clone https://github.com/Odarell35/SQL_Activity.git
 - To run:
 
 
-## Screenshot
+## 
+
+![image](https://github.com/user-attachments/assets/0759618a-f68f-4f60-b47c-c5d58a521e80)
+
